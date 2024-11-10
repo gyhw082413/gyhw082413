@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gyhw082413
+- 👋 Hi, I’m Jialin Duan
 - 👀 I’m interested in computational neuroscience
 - 🌱 I’m currently learning mathematics, physics and statistics
 - 📫 How to reach me 2573862504@qq.com
